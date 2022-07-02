@@ -1,0 +1,12 @@
+[Project]
+Version=1
+Comment=Uncommented
+Sourcefile=test.t
+Databasefiles=
+Slot=0
+NumEnvvar=0
+OutputPath=C:\temp\dev-simtestlab
+[Compiler]
+Verbose=0
+Encrypt=0
+Includesource=0
